@@ -15,4 +15,4 @@
    4. เมื่อเรียบร้อยแล้ว ให้ส่ง web site นี้ขึ้น github.io ของตัวเอง
  - ไฟล์งาน: https://github.com/Puwizz/Homework_codecamp_12/tree/main/1-HTML/Homework1
  
- - Web Link : 
+ - Web Link : https://puwizz.github.io/index.html
