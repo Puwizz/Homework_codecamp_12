@@ -1,0 +1,41 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.card {
+    display: inline-block;
+    width: 300px;
+    border-radius: 5px;
+    box-shadow: 4px 8px 8px silver;
+    margin: 10px 5px 0 15px;
+}
+
+.card img {
+    width: 100%;
+    border-radius: 5px 5px 0 0;
+}
+
+.container {
+    text-align: center;
+    padding: 2px 16px;
+    background-color: rgb(230, 158, 51);
+    margin-top: -8px;
+    border-radius: 0 5px 5px 5px ;
+    box-shadow: 4px 8px 8px  silver;
+}
+
+.container h4 {
+    margin-bottom: 8px;
+}
+
+.container p {
+    margin-top: 10px;
+}
+
+.container h4 {
+    color: bisque;
+}
